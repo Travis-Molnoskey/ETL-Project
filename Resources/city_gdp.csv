@@ -1,0 +1,564 @@
+City,GDP per capita
+San Francisco (Greater),94699
+Luxembourg,88312
+Seattle,78262
+Boston,78183
+New York (Greater),74244
+Polk,74058
+New Haven,70873
+Durham,70690
+Basel,70357
+Ingolstadt,70017
+Munich,69844
+Washington (Greater),69590
+Boulder,68024
+Bratislava,67841
+Houston,67361
+Hartford,67041
+Dane,65443
+Ulsan,64974
+Oslo,64673
+Zurich,64302
+Minneapolis,64198
+Philadelphia (Greater),64023
+Milton Keynes,64022
+Portland,63283
+Denver,63093
+Dusseldorf,63054
+Sebuk,62333
+Dallas,62286
+Nashville,62178
+Geneva,62115
+Paris,61883
+Stockholm,61754
+Chicago,61519
+Douglas (NE),61369
+Calgary,61164
+Frankfurt am Main,61113
+Indianapolis,61044
+Reading,60944
+Edmonton,60918
+Amsterdam,60857
+Groningen,60373
+Stuttgart,60022
+Minnehaha,59313
+San Diego,59234
+Australian Capital Territory,59119
+Charlotte,59018
+London,58827
+Davidson,58688
+Austin,58450
+New Orleans,58389
+Columbus,58348
+Heilbronn,58055
+Milwaukee,57984
+Stavanger,57910
+East Baton Rouge,57642
+Los Angeles (Greater),57577
+Cuyahoga,57488
+Antofagasta,57254
+Greater Perth,57082
+Atlanta,55945
+Cincinnati,55774
+Salzburg,55594
+Washtenaw,55221
+Eindhoven,55064
+Dauphin,54938
+Wake,54717
+Brussels,54634
+Jackson (MO),54559
+Tulsa,54555
+Salt Lake,54491
+Richmond (Greater),54388
+Cologne,54374
+Copenhagen,54197
+Ventura,53898
+Jefferson (TX),53594
+Aberdeen,53579
+Saskatoon,53503
+Brown,53441
+Wiesbaden,53396
+Karlsruhe,53058
+Hamburg,52947
+Pittsburgh,52915
+Utrecht,52901
+Santa Barbara,52247
+Detroit (Greater),52074
+Lancaster (NE),51969
+Bergen,51919
+Bern,51912
+Milan,51768
+Rotterdam,51454
+Regensburg,51294
+Cumberland (ME),51233
+Mainz,51199
+St. Louis,50868
+Guildford,50729
+Mannheim-Ludwigshafen,50541
+Oklahoma,50474
+Antwerp,50450
+Madison,50317
+Nuremberg,50138
+Helsinki,49760
+Warsaw,49722
+Lucas,49692
+Koblenz,49559
+Muenster,49421
+Kent,49318
+Jefferson (AL),49122
+Guilford,49096
+Trondheim,48970
+Memphis,48880
+Bonn,48797
+Vitoria,48684
+Sonoma,48618
+Ulm,48520
+Jefferson (KY),48478
+Newport News,48442
+Albany,48350
+Peoria,48221
+Prague,48160
+Fayette,48096
+The Hague,48011
+Virginia Beach,47939
+Monterey,47853
+Oxford,47592
+Miami (Greater),47592
+Bologna,47373
+Orange,47352
+Lancaster (PA),47291
+Darmstadt,47263
+Sacramento,47159
+Lyon,46913
+Vienna,46787
+Newcastle,46638
+Pulaski,46588
+Nueces,46533
+Rochester (NY),46504
+Innsbruck,46502
+Linz,46498
+Lehigh,46056
+Erie (NY),45990
+Scott,45987
+Sedgwick,45969
+Lausanne,45928
+Gent,45885
+Richland,45847
+Benton (AR),45806
+Summit,45794
+Barcelona,45752
+Charleston,45667
+Breda,45568
+Graz,45376
+Braunschweig-Salzgitter Wolfsburg,45229
+Vanderburgh,45087
+Montgomery (OH),45076
+Providence,45001
+Onondaga,44998
+Schweinfurt,44930
+Hanover,44806
+Reutlingen,44782
+s-Hertogenbosch,44736
+Phoenix,44725
+Wollongong,44714
+Greater Sydney,44624
+Florence,44543
+Allen,44460
+Roanoke,44345
+Las Vegas,44218
+San Antonio,44126
+Edinburgh,44059
+Caddo,43814
+Nijmegen,43760
+Toronto,43695
+Modena,43682
+Parma,43660
+Bielefeld,43568
+Collier,43252
+London,43227
+Gothenburg,43196
+Santa Cruz,43090
+Madrid,43074
+Kitchener,43019
+Aschaffenburg,43001
+Washoe,42962
+Saarbrucken,42950
+Kalamazoo,42897
+Kassel,42868
+Bremen,42756
+Toulouse,42730
+Hamilton,42659
+Wurzburg,42455
+Ottawa,42423
+Bristol,42329
+Atlantic City,42263
+Vancouver,42256
+Hamilton (TN),41975
+Heidelberg,41892
+Berks,41852
+Tampa-Hillsborough,41817
+Preston,41798
+Uppsala,41790
+Offenburg,41789
+Geelong,41757
+Cambridge,41706
+Larimer,41703
+Benton (WA),41694
+Tampa-Pinellas,41475
+Rome,41475
+Tuscaloosa,41441
+Chatham,41436
+Donostia-San Sebastian,41177
+Jacksonville,41155
+Mobile,41101
+Freiburg im Breisgau,41090
+Albuquerque,41076
+Greater Melbourne,41062
+Potter,41035
+Ingham,41011
+Augsburg,40969
+Wuppertal,40900
+Greenville,40856
+Iserlohn,40786
+Reggio nell'Emilia,40770
+Aachen,40679
+Cumberland (NC),40629
+Knox,40540
+Greater Brisbane,40465
+Zwolle,40371
+Genoa,40232
+Forsyth,39963
+El Paso (CO),39771
+Ljubljana,39763
+Ada,39631
+Gyeongsan,39580
+Winnipeg,39535
+Arnhem,39484
+Greater Adelaide,39480
+Pamplona,39458
+Winnebago (IL),39458
+Windsor,39396
+Osnabruck,39370
+Worcester,39369
+Heerlen,39359
+Gold Coast,39345
+Poznan,39308
+"Bocholt, Stadt",39216
+Muscogee,39216
+Jinju,39173
+Bilbao,39081
+Padua,38982
+Siegen,38928
+Spokane,38857
+Hampden,38829
+Rosenheim,38749
+Nantes,38736
+Southampton,38654
+Vilnius,38634
+Paderborn,38608
+Cheshire West and Chester,38568
+Tilburg,38508
+Kern,38501
+St. Joseph,38493
+Pforzheim,38417
+Saanich,38353
+Stark,38299
+Giessen,38298
+Malmo,38297
+Verona,38202
+Heungdeok,38108
+Aarhus,38056
+Coventry,37870
+Tallinn,37850
+Leiden,37788
+Kiel,37706
+Brescia,37686
+Berlin,37601
+Luzerne,37498
+Constance,37492
+York,37410
+Bordeaux,37405
+Nice,37400
+Budapest,37399
+Lane,37381
+Wetzlar,37134
+McLennan,37097
+Oldenburg (Oldenburg),37073
+Erie (PA),36905
+Weld,36796
+Turin,36758
+Aalborg,36715
+Fresno (Greater),36685
+Clermont-Ferrand,36648
+Portsmouth,36540
+Bergamo,36516
+Rennes,36509
+Strasbourg,36365
+Sherbrooke,36346
+Gottingen,36346
+Dijon,36290
+Quebec,36274
+Monchengladbach,36259
+Northampton,36250
+Tallahassee,36103
+Lafayette,36062
+Bell,35896
+Seongsan,35851
+Ruhr,35746
+Palma de Mallorca,35672
+Erfurt,35559
+Montreal,35498
+Enschede,35418
+Saragossa,35239
+Gumi,35222
+Pohan,35214
+Venice,35188
+Flensburg,35112
+Lubeck,34945
+Alachua,34788
+Lisbon,34782
+Brighton and Hove,34677
+Marion (OR),34557
+Le Havre,34531
+Grenoble,34518
+Orleans,34513
+Prato,34495
+Leipzig,34483
+Utah,34438
+Glasgow,34358
+Seoul,34343
+Belfast,34331
+Manchester,34318
+Montgomery (AL),34302
+Sarasota,34270
+Rouen,34241
+Trier,34209
+Tampere,34183
+Halle an der Saale,34165
+Odense,34160
+Derby,33985
+Lee,33919
+Magdeburg,33830
+Brazos,33790
+Turku,33786
+Reims,33762
+Yakima,33657
+Dresden,33589
+Pima,33388
+Pau,33376
+Leicester,33355
+Stanislaus,33324
+Halifax,33292
+Annecy,33272
+Lubbock,33109
+Mahoning,33084
+Valenciennes,33022
+Zwickau,32985
+Rostock,32877
+Kaiserslautern,32865
+Escambia,32699
+Tours,32680
+Lille,32650
+Wonju,32637
+Caen,32542
+Valladolid,32537
+Leeds,32254
+Dunkerque,32211
+Ipswich,32202
+Athens,32167
+Brevard,32113
+Greene,32000
+Chuncheon,31980
+Brest,31923
+San Joaquin,31727
+Montpellier,31691
+Bremerhaven,31579
+Avignon,31571
+Bournemouth,31431
+"Duren, Stadt",31380
+Norwich,31047
+Liverpool,30911
+Liege,30878
+Hildesheim,30696
+Riga,30682
+Dundee City,30681
+El Paso (TX),30658
+Besancon,30624
+West Midlands urban area,30616
+Le Mans,30590
+Nottingham,30550
+Perugia,30502
+Blackburn with Darwen,30498
+Thurston,30496
+Schwerin,30384
+Poitiers,30314
+Lackawanna,30273
+Deokjin,30162
+Nancy,30130
+Tulare,29990
+Saint-Etienne,29809
+Sunderland,29809
+Mulhouse,29768
+Sebastian,29712
+Brno,29703
+Krakow,29695
+Genesee,29667
+Newcastle upon Tyne,29525
+Exeter,29460
+Iksan,29443
+Limoges,29310
+Gimhae,29259
+Valencia,29104
+Cagliari,29036
+Angers,29029
+Jeju,29011
+Plymouth,28872
+Amiens,28863
+Coruna (A),28784
+Oviedo,28703
+Neubrandenburg,28695
+Gdansk,28668
+Gorlitz,28556
+Santander,28489
+Cardiff,28352
+Monterrey,28251
+Blackpool,28171
+Lodz,28035
+Plzen,28034
+Metz,27968
+Santa Cruz de Tenerife,27963
+Fort-de-France,27943
+Stoke-on-Trent,27771
+Charleroi,27770
+Kingston upon Hull,27644
+Merced,27554
+Butte,27523
+Katowice,27101
+Swansea,27055
+St. Lucie,26928
+Murcia,26900
+Sheffield,26814
+Lincoln,26662
+Webb,26581
+Middlesbrough,26498
+Toulon,26476
+Vigo,26393
+Colchester,26342
+Elche/Elx,26208
+Gunsan,26179
+Medway,26121
+Gijon,26105
+Gwangsan,25866
+Kaunas,25608
+Las Palmas,25463
+Seville,25451
+Saint Denis,25375
+Ostrava,25051
+Bielsko-Biala,25045
+Seo,25021
+Porto,24819
+Nimes,24697
+Perpignan,24637
+Coimbra,24548
+Saltillo,24490
+Monclova,24490
+Bari,24390
+Doncaster,24312
+Alicante,24117
+Szekesfehervar,23958
+Granada,23735
+Marbella,23702
+Malaga,23485
+Maribor,23248
+Cordoba,22949
+San Juan del Rio,22936
+Volusia-Daytona Beach,22854
+Hermosillo,22840
+Cajeme,22840
+Kosice,22599
+Mexico City,22587
+Centro,22348
+Wirral,22055
+Palermo,22004
+Opole,21973
+Dalseong,21926
+Naples,21849
+Santiago,21803
+Queretaro,21741
+Cameron,21703
+Los Cabos,21431
+La Paz,21431
+Marion (FL),21139
+Hidalgo,20920
+Rzeszow,20752
+Czestochowa,20744
+Catania,20615
+Torreon,20015
+Taranto,19935
+Bialystok,19796
+Thessaloniki,19745
+Aguascalientes,19528
+Benito Juarez,19406
+Olsztyn,19311
+Rancagua,19169
+Mexicali,19048
+Tijuana,19047
+Ensenada,19041
+Kielce,18717
+Juarez,18101
+Chihuahua,18101
+Radom,17847
+Guadalajara,17636
+Victoria,17581
+Nuevo Laredo,17581
+Matamoros,17580
+Reynosa,17549
+Puerto Vallarta,17454
+Debrecen,17245
+Tampico,17203
+Miskolc,16980
+Valparaiso,16483
+Colima,16240
+Tarnow,15749
+Nowy Sacz,15322
+San Luis Potosi,15303
+Pecs,15157
+Mazatlan,14894
+Culiacan,14894
+Ahome,14894
+Salamanca,14428
+Leon,14428
+Irapuato,14428
+Celaya,14428
+Durango,13849
+Merida,13672
+Puerto Montt,13368
+Coquimbo-La Serena,13308
+Concepcion,12890
+Talca,12460
+Guadalupe,12285
+Minatitlan,12105
+Xalapa,12105
+Orizaba,12105
+Cordoba,12105
+Poza Rica de Hidalgo,12105
+Coatzacoalcos,12105
+Veracruz,12006
+Cuernavaca,11947
+Cuautla,11947
+Tepic,11647
+Pachuca de Soto,11366
+Tulancingo de Bravo,11366
+Tehuacan,10828
+Puebla,10681
+Toluca,10633
+Zamora,10430
+Uruapan,10430
+Morelia,10430
+Temuco,10361
+Tlaxcala,9431
+Oaxaca de Juarez,8275
+Chilpancingo de los Bravo,8062
+Acapulco de Juarez,8039
+Tuxtla Gutierrez,6696
+Tapachula,6696
